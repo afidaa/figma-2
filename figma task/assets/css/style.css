@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1230px;
+    margin: auto;
+  }
+  
+  header {
+    height: 95px;
+width: 1440px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+    display: flex;
+    z-index: 999;
+    background-color: #202020;
+    position: relative;
+  }
+  header .general-nav {
+    background-color: #202020;
+    z-index: 999;
+  }
+  header .general-nav img {
+    margin-right: 64px;
+    height: 53px;
+width: 227px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+  }
+  header .general-nav li {
+    margin-right: 40px;
+  }
+  header .general-nav li a {
+    color: white;
+  }
+  header .general-nav button {
+    width: 128px;
+    height: 44px;
+    left: 1045px;
+    top: 4.5px;
+    margin-left: 80px;
+    background: #FF3839;
+    border-radius: 5px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    border: none;
+  }
+.first .image{
+    
+    margin-left: 60px;
+  }
+  .first .text .text1 {
+    font-size: 10px !important;
+    width: 1000px;
+    padding-right: 650px;
+  }
+  .first .text .text2 {
+    font-size: 30px;
+    width: 400px;
+    height: 70px;
+  }
+  .first .text hr {
+    width: 250px;
+    margin-left: 78px;
+  }
+  .first .text .text3 {
+    font-size: 10px;
+    width: 340px;
+  }
+  .first .text .btn {
+    width: 120px;
+    height: 40px;
+    margin-left: 50px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .first .text .btn1 {
+    width: 120px;
+    height: 40px;
+    font-size: 14px;
+  }
+  .second .rec1 {
+    width: 300px;
+    margin-left: 20px;
+  }
+  .second .rec2 {
+    width: 250px;
+    margin-left: 190px;
+    margin-top: 150px;
+  }
+  .second .texts {
+    margin-top: 500px;
+  }
+  .second .texts .general-two {
+    margin-left: 90px;
+  }
+  .second .texts .text2 {
+    font-size: 40px;
+  }
+  .second .texts .text2 span {
+    font-size: 40px;
+  }
+  .second .texts .text3 {
+    width: 400px;
+    font-size: 13px;
+  }
+  .second .texts .text4 {
+    width: 400px;
+    font-size: 13px;
+  }
